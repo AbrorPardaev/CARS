@@ -1,8 +1,8 @@
 import React from 'react'
-
+import moshina from '../../assets/moshina.jpg';
 const Wallpaper = () => {
   return (
-    <div>Wallpaper</div>
+    <div><img src={moshina} alt="moshinani img" width={'100%'} /></div>
   );
 };
 

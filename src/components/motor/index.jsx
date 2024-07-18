@@ -6,7 +6,7 @@ import Futer from '../futer';
 
 const MotorComponents = () => {
   return (
-    <div>
+    <div style={{backgroundColor: "#FFF", }}>
         <Navbar/>
         <Wallpaper/>
         <Shop/>

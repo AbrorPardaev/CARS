@@ -2,7 +2,7 @@ import React from 'react'
 
 const Futer = () => {
   return (
-    <div>Futer</div>
+    <div></div>
   );
 };
 
